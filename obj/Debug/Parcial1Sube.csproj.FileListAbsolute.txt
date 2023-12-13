@@ -1,0 +1,11 @@
+C:\Users\Claudia\Desktop\►\Cursada_C_SHARP\EjerciciosCursada\Parcial1Sube\bin\Debug\Parcial1Sube.exe.config
+C:\Users\Claudia\Desktop\►\Cursada_C_SHARP\EjerciciosCursada\Parcial1Sube\bin\Debug\Parcial1Sube.exe
+C:\Users\Claudia\Desktop\►\Cursada_C_SHARP\EjerciciosCursada\Parcial1Sube\bin\Debug\Parcial1Sube.pdb
+C:\Users\Claudia\Desktop\►\Cursada_C_SHARP\EjerciciosCursada\Parcial1Sube\obj\Debug\Parcial1Sube.csproj.AssemblyReference.cache
+C:\Users\Claudia\Desktop\►\Cursada_C_SHARP\EjerciciosCursada\Parcial1Sube\obj\Debug\Parcial1Sube.Properties.Resources.resources
+C:\Users\Claudia\Desktop\►\Cursada_C_SHARP\EjerciciosCursada\Parcial1Sube\obj\Debug\Parcial1Sube.Vista.VistaUsuario.resources
+C:\Users\Claudia\Desktop\►\Cursada_C_SHARP\EjerciciosCursada\Parcial1Sube\obj\Debug\Parcial1Sube.csproj.GenerateResource.cache
+C:\Users\Claudia\Desktop\►\Cursada_C_SHARP\EjerciciosCursada\Parcial1Sube\obj\Debug\Parcial1Sube.csproj.CoreCompileInputs.cache
+C:\Users\Claudia\Desktop\►\Cursada_C_SHARP\EjerciciosCursada\Parcial1Sube\obj\Debug\Parcial1Sube.exe
+C:\Users\Claudia\Desktop\►\Cursada_C_SHARP\EjerciciosCursada\Parcial1Sube\obj\Debug\Parcial1Sube.pdb
+C:\Users\Claudia\Desktop\►\Cursada_C_SHARP\EjerciciosCursada\Parcial1Sube\obj\Debug\Parcial1Sube.Vista.VistaMenu.resources
